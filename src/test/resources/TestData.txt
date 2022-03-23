@@ -1,0 +1,24 @@
+[
+	{
+	},
+	{
+		"copyright":"copyright",
+		"date":"22-03-2022",
+		"explanation":"explanation",
+		"hdurl":"httpsnetology.ru/",
+		"media_type":"media_type",
+		"service_version":"service_version",
+		"title":"title",
+		"url":"httpsnetology.ru/"
+	},
+	{
+		"copyright":"copyright",
+		"date":"2022-03-22",
+		"explanation":"explanation",
+		"hdurl":"http://snetology.ru/",
+		"media_type":"media_type",
+		"service_version":"service_version",
+		"title":"title",
+		"url":"http://snetology.ru/"
+	}
+]
